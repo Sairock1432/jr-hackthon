@@ -1,2 +1,6 @@
 print("sai")
 print("jaya")
+print("ram")
+print("krishna")
+print("sai")
+print("jaya")
